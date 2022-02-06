@@ -5,11 +5,13 @@
 <p> Pewlett-Hackard is a large company with thousands of employees. As with any company, employees retire every year. As baby boomers are aging and looking toward retirement these numbers will continue to grow. PH would like to be proactive and start looking to the future, so they’ve enlisted Bobby, an HR Analyst.  Bobby has been tasked with figuring out who will be retiring and how many positions will be filled. This will help determine who will qualify for the retirement package HP will be offering. Six datasets have been provided with varying information. This information will be analyzed ensure HP continues with their success. 
 <h2>Results</h2>
 
-<p> Although a very large company Pewlett-Hackard can’t withstand the full blow if all eligible employees retired at once. Thousands of employees are up for potential retirement. Below, you can see the breakdown of current titles for these employees. The likelihood of all the potential retirees leaving at once is unlikely, so there is time to plan, and assess how many of these positions need to be filled once vacated. There bulk of the potential retirees fall within the Senior Engineers and Senior Staff. On a positive note, there is potential to save on Salaries. Every per will not have to be replaced. 
+<p> Although a very large company, Pewlett-Hackard can’t withstand the full blow if all eligible employees retired at once. Thousands of employees are up for potential retirement. The likelihood of all the potential retirees leaving at once is unlikely, so there is time to plan, and assess how many of these positions need to be filled once vacated. Below, you can see the breakdown of current titles for these employees, the bulk of the potential retirees fall within the Senior Engineers and Senior Staff. You will also see a very small sample size of potential soon-to-be retirees. 
 
   
- ![DistrictSummary](https://github.com/SarahMason2015/School_District_Analysis/blob/d508311ed73176cd5f5e053d3c1107a55841cd45/Pics/DistrictSum.png)
+ ![titles](https://github.com/SarahMason2015/Pewlett-Hackard-Analysis/blob/542f67d3ffb2a2350211415d0bd69e7a7e84814c/Pewlett-Hackard-Analysis/Retiring_titles.png)
 
+  
+ ![Sample](https://github.com/SarahMason2015/Pewlett-Hackard-Analysis/blob/542f67d3ffb2a2350211415d0bd69e7a7e84814c/Pewlett-Hackard-Analysis/Sample_group.png)
 
 <h2>Summary</h2>
 
